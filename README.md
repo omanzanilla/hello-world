@@ -6,10 +6,10 @@ I'm learning Python, and just got in touch with Python Ireland's guys. I'm worki
 #My languages
 R
 
-Matlab / Octave
+Matlab / Octave (most of my experience is here!)
 
 Python (just a newbie!)
 
 SPSS scripting
 
-VBA for Excel (yeah, I know it sucks!)
+VBA for Excel (yeah, I know it sucks!... but it is useful sometimes)
